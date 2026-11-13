@@ -1,0 +1,2125 @@
+{
+  "places": [
+    {
+      "id": "ambient-park",
+      "name": "Ambient Park",
+      "city": "Истра",
+      "region": "Московская область",
+      "address": "Московская область, Истринский район, д. Ульево, ул. Солнечная, 60",
+      "officialUrl": "https://rs-ambient.ru/",
+      "bookingUrl": "https://rs-ambient.ru/booking/",
+      "latitude": 55.786607,
+      "longitude": 36.492481,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-345d9b2cfcb4f93f40b0f5ae",
+          "src": "/photos/eb707dd02a8c11c501a92042.jpg",
+          "alt": "Ambient Park — Grand Villa: гостиная, столовая и кухня",
+          "caption": "Grand Villa: гостиная, столовая и кухня",
+          "categoryId": "H01",
+          "scope": "category",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-4d41834872b8f518d2b327c3",
+          "src": "/photos/b8854b335254535a3d954c91.jpg",
+          "alt": "Ambient Park — Grand Villa: первая спальня",
+          "caption": "Grand Villa: первая спальня",
+          "categoryId": "H01",
+          "scope": "category",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-77960a971b463252888200d6",
+          "src": "/photos/8dc3ab83e047598b7b95c174.jpg",
+          "alt": "Ambient Park — Grand Villa: вторая спальня",
+          "caption": "Grand Villa: вторая спальня",
+          "categoryId": "H01",
+          "scope": "category",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-34dda7951707eb3a21394417",
+          "src": "/photos/51bf3a4df025a8da6254335a.jpg",
+          "alt": "Ambient Park — Grand Villa: обеденная зона",
+          "caption": "Grand Villa: обеденная зона",
+          "categoryId": "H01",
+          "scope": "category",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-bc5c5f5429ac34cdb841c7f9",
+          "src": "/photos/158a072c545536a4f0821e2a.jpg",
+          "alt": "Ambient Park — Grand Villa: ванная",
+          "caption": "Grand Villa: ванная",
+          "categoryId": "H01",
+          "scope": "category",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-12663acbf2857e2062434981",
+          "src": "/photos/c59a8f16af8f16cfea469be5.jpg",
+          "alt": "Ambient Park — Общая территория: другие коттеджи зимой",
+          "caption": "Общая территория: другие коттеджи зимой",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        },
+        {
+          "id": "photo-d0840872cd82b24d265f3805",
+          "src": "/photos/f7c9656e1b3950bfbaeb4472.jpg",
+          "alt": "Ambient Park — Общая костровая поляна · не приватная зона Grand",
+          "caption": "Общая костровая поляна · не приватная зона Grand",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "credit": "Ambient Park · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H01",
+          "name": "Grand Villa",
+          "areaM2": 142,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": 1,
+          "officialUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+          "format": "Дом",
+          "photos": [
+            {
+              "id": "photo-345d9b2cfcb4f93f40b0f5ae",
+              "src": "/photos/eb707dd02a8c11c501a92042.jpg",
+              "alt": "Ambient Park — Grand Villa: гостиная, столовая и кухня",
+              "caption": "Grand Villa: гостиная, столовая и кухня",
+              "categoryId": "H01",
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+              "credit": "Ambient Park · сохранённые фотографии"
+            },
+            {
+              "id": "photo-4d41834872b8f518d2b327c3",
+              "src": "/photos/b8854b335254535a3d954c91.jpg",
+              "alt": "Ambient Park — Grand Villa: первая спальня",
+              "caption": "Grand Villa: первая спальня",
+              "categoryId": "H01",
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+              "credit": "Ambient Park · сохранённые фотографии"
+            },
+            {
+              "id": "photo-77960a971b463252888200d6",
+              "src": "/photos/8dc3ab83e047598b7b95c174.jpg",
+              "alt": "Ambient Park — Grand Villa: вторая спальня",
+              "caption": "Grand Villa: вторая спальня",
+              "categoryId": "H01",
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+              "credit": "Ambient Park · сохранённые фотографии"
+            },
+            {
+              "id": "photo-34dda7951707eb3a21394417",
+              "src": "/photos/51bf3a4df025a8da6254335a.jpg",
+              "alt": "Ambient Park — Grand Villa: обеденная зона",
+              "caption": "Grand Villa: обеденная зона",
+              "categoryId": "H01",
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+              "credit": "Ambient Park · сохранённые фотографии"
+            },
+            {
+              "id": "photo-bc5c5f5429ac34cdb841c7f9",
+              "src": "/photos/158a072c545536a4f0821e2a.jpg",
+              "alt": "Ambient Park — Grand Villa: ванная",
+              "caption": "Grand Villa: ванная",
+              "categoryId": "H01",
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-grand-villa-premium-klassa-s-saunoy/",
+              "credit": "Ambient Park · сохранённые фотографии"
+            }
+          ]
+        },
+        {
+          "id": "H07",
+          "name": "Комфорт вилла",
+          "areaM2": 60,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://rs-ambient.ru/rooms/",
+          "format": "Дом",
+          "photos": []
+        },
+        {
+          "id": "H06",
+          "name": "Семейная вилла",
+          "areaM2": 76,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://rs-ambient.ru/rooms/",
+          "format": "Дом",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "art-village",
+      "name": "Art Village Club",
+      "city": "Химки / Сходня",
+      "region": "Московская область",
+      "address": "Московская область, г.о. Химки, д. Голиково, ул. Рябиновая, 1Г/3",
+      "officialUrl": "https://artvillage.club/",
+      "bookingUrl": null,
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-11124dc9e85b3a0fa1240c12",
+          "src": "/photos/e4b33ffe18a291bdf5dde436.jpg",
+          "alt": "Luxe 120 м²: кухня и лестница на второй уровень",
+          "caption": "Luxe 120 м²: кухня и лестница на второй уровень",
+          "categoryId": "R05",
+          "scope": "category",
+          "sourceUrl": "https://artvillage.club/",
+          "credit": "Art Village Club · официальный источник"
+        },
+        {
+          "id": "photo-14761a674a58c6385ba5c366",
+          "src": "/photos/bda66435dec7173d08ab0b75.jpg",
+          "alt": "Luxe 120 м²: лестница и интерьер",
+          "caption": "Luxe 120 м²: лестница и интерьер",
+          "categoryId": "R05",
+          "scope": "category",
+          "sourceUrl": "https://artvillage.club/",
+          "credit": "Art Village Club · официальный источник"
+        },
+        {
+          "id": "photo-d585f5965298c8ee834e5136",
+          "src": "/photos/315318e3a48616dd79c7102b.jpg",
+          "alt": "Luxe 120 м²: ванная комната",
+          "caption": "Luxe 120 м²: ванная комната",
+          "categoryId": "R05",
+          "scope": "category",
+          "sourceUrl": "https://artvillage.club/",
+          "credit": "Art Village Club · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R05",
+          "name": "Luxe 120 м²",
+          "areaM2": 120,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://artvillage.club/",
+          "format": "Курорт / апартаменты",
+          "photos": [
+            {
+              "id": "photo-11124dc9e85b3a0fa1240c12",
+              "src": "/photos/e4b33ffe18a291bdf5dde436.jpg",
+              "alt": "Luxe 120 м²: кухня и лестница на второй уровень",
+              "caption": "Luxe 120 м²: кухня и лестница на второй уровень",
+              "categoryId": "R05",
+              "scope": "category",
+              "sourceUrl": "https://artvillage.club/",
+              "credit": "Art Village Club · официальный источник"
+            },
+            {
+              "id": "photo-14761a674a58c6385ba5c366",
+              "src": "/photos/bda66435dec7173d08ab0b75.jpg",
+              "alt": "Luxe 120 м²: лестница и интерьер",
+              "caption": "Luxe 120 м²: лестница и интерьер",
+              "categoryId": "R05",
+              "scope": "category",
+              "sourceUrl": "https://artvillage.club/",
+              "credit": "Art Village Club · официальный источник"
+            },
+            {
+              "id": "photo-d585f5965298c8ee834e5136",
+              "src": "/photos/315318e3a48616dd79c7102b.jpg",
+              "alt": "Luxe 120 м²: ванная комната",
+              "caption": "Luxe 120 м²: ванная комната",
+              "categoryId": "R05",
+              "scope": "category",
+              "sourceUrl": "https://artvillage.club/",
+              "credit": "Art Village Club · официальный источник"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bjork",
+      "name": "BJØRK",
+      "city": "Чехов / Ступино",
+      "region": "Московская область",
+      "address": "Московская область, Ступинский район, деревня Бекетово",
+      "officialUrl": "https://bjorkglamp.ru/flat-house",
+      "bookingUrl": "https://bjorkglamp.ru/flat-house#fh-book",
+      "latitude": 55.027887,
+      "longitude": 37.772119,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:20.155Z",
+      "photos": [
+        {
+          "id": "photo-7007febd711e6f9be8540476",
+          "src": "/photos/c6a580b919196d1c84b96d3e.jpg",
+          "alt": "BJØRK — Flat House: кухня-гостиная",
+          "caption": "Flat House: кухня-гостиная",
+          "categoryId": "S-N04-1",
+          "scope": "category",
+          "sourceUrl": "https://bjorkglamp.ru/flat-house",
+          "credit": "BJØRK · сохранённые фотографии"
+        },
+        {
+          "id": "photo-6dea5f23efac3947e918283f",
+          "src": "/photos/d2646d4f9d004941bb277b6c.jpg",
+          "alt": "BJØRK — Flat House: спальня",
+          "caption": "Flat House: спальня",
+          "categoryId": "S-N04-1",
+          "scope": "category",
+          "sourceUrl": "https://bjorkglamp.ru/flat-house",
+          "credit": "BJØRK · сохранённые фотографии"
+        },
+        {
+          "id": "photo-afae3127d2f8c9481b8938de",
+          "src": "/photos/d44f4f11b8123a209d7840c9.jpg",
+          "alt": "BJØRK — Flat House: берёзовый участок",
+          "caption": "Flat House: берёзовый участок",
+          "categoryId": "S-N04-1",
+          "scope": "category",
+          "sourceUrl": "https://bjorkglamp.ru/flat-house",
+          "credit": "BJØRK · сохранённые фотографии"
+        },
+        {
+          "id": "photo-1badbd3b646b55fef5e2393d",
+          "src": "/photos/df23d308f52db517259357e5.jpg",
+          "alt": "BJØRK — Flat House: терраса",
+          "caption": "Flat House: терраса",
+          "categoryId": "S-N04-1",
+          "scope": "category",
+          "sourceUrl": "https://bjorkglamp.ru/flat-house",
+          "credit": "BJØRK · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N04-1",
+          "name": "Flat House",
+          "areaM2": 120,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://bjorkglamp.ru/flat-house",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-7007febd711e6f9be8540476",
+              "src": "/photos/c6a580b919196d1c84b96d3e.jpg",
+              "alt": "BJØRK — Flat House: кухня-гостиная",
+              "caption": "Flat House: кухня-гостиная",
+              "categoryId": "S-N04-1",
+              "scope": "category",
+              "sourceUrl": "https://bjorkglamp.ru/flat-house",
+              "credit": "BJØRK · сохранённые фотографии"
+            },
+            {
+              "id": "photo-6dea5f23efac3947e918283f",
+              "src": "/photos/d2646d4f9d004941bb277b6c.jpg",
+              "alt": "BJØRK — Flat House: спальня",
+              "caption": "Flat House: спальня",
+              "categoryId": "S-N04-1",
+              "scope": "category",
+              "sourceUrl": "https://bjorkglamp.ru/flat-house",
+              "credit": "BJØRK · сохранённые фотографии"
+            },
+            {
+              "id": "photo-afae3127d2f8c9481b8938de",
+              "src": "/photos/d44f4f11b8123a209d7840c9.jpg",
+              "alt": "BJØRK — Flat House: берёзовый участок",
+              "caption": "Flat House: берёзовый участок",
+              "categoryId": "S-N04-1",
+              "scope": "category",
+              "sourceUrl": "https://bjorkglamp.ru/flat-house",
+              "credit": "BJØRK · сохранённые фотографии"
+            },
+            {
+              "id": "photo-1badbd3b646b55fef5e2393d",
+              "src": "/photos/df23d308f52db517259357e5.jpg",
+              "alt": "BJØRK — Flat House: терраса",
+              "caption": "Flat House: терраса",
+              "categoryId": "S-N04-1",
+              "scope": "category",
+              "sourceUrl": "https://bjorkglamp.ru/flat-house",
+              "credit": "BJØRK · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bridge-country",
+      "name": "Bridge Country",
+      "city": "Ястребки, Звенигород",
+      "region": "Московская область",
+      "address": "Московская область, Одинцовский округ, д. Ястребки, строение 1",
+      "officialUrl": "https://bridge-country.ru/",
+      "bookingUrl": "https://bridge-country.ru/booking/",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-f2730327e685474d58943eb0",
+          "src": "/photos/3e4afa374542e2a5871f6132.jpg",
+          "alt": "Bridge Country — Терраса дома с купелью",
+          "caption": "Терраса дома с купелью",
+          "categoryId": "R01",
+          "scope": "category",
+          "sourceUrl": "https://bridge-country.ru/booking/",
+          "credit": "Bridge Country · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R01",
+          "name": "Дом с купелью",
+          "areaM2": 112,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": 2,
+          "officialUrl": "https://bridge-country.ru/booking/",
+          "format": "Курорт с домами",
+          "photos": [
+            {
+              "id": "photo-f2730327e685474d58943eb0",
+              "src": "/photos/3e4afa374542e2a5871f6132.jpg",
+              "alt": "Bridge Country — Терраса дома с купелью",
+              "caption": "Терраса дома с купелью",
+              "categoryId": "R01",
+              "scope": "category",
+              "sourceUrl": "https://bridge-country.ru/booking/",
+              "credit": "Bridge Country · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domingo-dacha",
+      "name": "Domingo Dacha",
+      "city": "Серпухов",
+      "region": "Московская область",
+      "address": "Московская область, городской округ Серпухов, локация «Венский лес»",
+      "officialUrl": "https://domingodacha.ru/cosmos",
+      "bookingUrl": "https://domingodacha.ru/booking",
+      "latitude": 55.028125,
+      "longitude": 37.237908,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-37ab1efd076395d703a123aa",
+          "src": "/photos/0efe38e4ed48f685d6ee556f.jpg",
+          "alt": "Domingo Dacha — Космос: кухня-гостиная",
+          "caption": "Космос: кухня-гостиная",
+          "categoryId": "S-N01-1",
+          "scope": "category",
+          "sourceUrl": "https://domingodacha.ru/cosmos",
+          "credit": "Domingo Dacha · сохранённые фотографии"
+        },
+        {
+          "id": "photo-d19ecd8786ddaea211314e96",
+          "src": "/photos/b3b2be405c1c409e394088b4.jpg",
+          "alt": "Domingo Dacha — Космос: спальня",
+          "caption": "Космос: спальня",
+          "categoryId": "S-N01-1",
+          "scope": "category",
+          "sourceUrl": "https://domingodacha.ru/cosmos",
+          "credit": "Domingo Dacha · сохранённые фотографии"
+        },
+        {
+          "id": "photo-02597b223e74816ee5d3c06f",
+          "src": "/photos/3b4f60989835b1bb5592787d.jpg",
+          "alt": "Domingo Dacha — Хюгге: кухня-гостиная",
+          "caption": "Хюгге: кухня-гостиная",
+          "categoryId": "S-N01-2",
+          "scope": "category",
+          "sourceUrl": "https://domingodacha.ru/hygge",
+          "credit": "Domingo Dacha · сохранённые фотографии"
+        },
+        {
+          "id": "photo-d90e40a74e21870e8fc6ae0a",
+          "src": "/photos/5bc89150b9c6c579b6df0458.jpg",
+          "alt": "Domingo Dacha — Хюгге: дом и терраса",
+          "caption": "Хюгге: дом и терраса",
+          "categoryId": "S-N01-2",
+          "scope": "category",
+          "sourceUrl": "https://domingodacha.ru/hygge",
+          "credit": "Domingo Dacha · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N01-1",
+          "name": "Космос",
+          "areaM2": null,
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "floors": null,
+          "officialUrl": "https://domingodacha.ru/cosmos",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-37ab1efd076395d703a123aa",
+              "src": "/photos/0efe38e4ed48f685d6ee556f.jpg",
+              "alt": "Domingo Dacha — Космос: кухня-гостиная",
+              "caption": "Космос: кухня-гостиная",
+              "categoryId": "S-N01-1",
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/cosmos",
+              "credit": "Domingo Dacha · сохранённые фотографии"
+            },
+            {
+              "id": "photo-d19ecd8786ddaea211314e96",
+              "src": "/photos/b3b2be405c1c409e394088b4.jpg",
+              "alt": "Domingo Dacha — Космос: спальня",
+              "caption": "Космос: спальня",
+              "categoryId": "S-N01-1",
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/cosmos",
+              "credit": "Domingo Dacha · сохранённые фотографии"
+            }
+          ]
+        },
+        {
+          "id": "S-N01-2",
+          "name": "Хюгге",
+          "areaM2": null,
+          "bedrooms": 1,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://domingodacha.ru/hygge",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-02597b223e74816ee5d3c06f",
+              "src": "/photos/3b4f60989835b1bb5592787d.jpg",
+              "alt": "Domingo Dacha — Хюгге: кухня-гостиная",
+              "caption": "Хюгге: кухня-гостиная",
+              "categoryId": "S-N01-2",
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/hygge",
+              "credit": "Domingo Dacha · сохранённые фотографии"
+            },
+            {
+              "id": "photo-d90e40a74e21870e8fc6ae0a",
+              "src": "/photos/5bc89150b9c6c579b6df0458.jpg",
+              "alt": "Domingo Dacha — Хюгге: дом и терраса",
+              "caption": "Хюгге: дом и терраса",
+              "categoryId": "S-N01-2",
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/hygge",
+              "credit": "Domingo Dacha · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garnet-holiday",
+      "name": "Garnet Holiday",
+      "city": "Ступино / Серпухов",
+      "region": "Московская область",
+      "address": "Московская область, Ступинское направление, Green Forest",
+      "officialUrl": "https://garnetholiday.ru/xl/",
+      "bookingUrl": "https://garnetholiday.ru/booking/",
+      "latitude": 55.0294743,
+      "longitude": 37.7483955,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:20.155Z",
+      "photos": [
+        {
+          "id": "photo-7438823a183d309950d12215",
+          "src": "/photos/8aebd1ec3ad629edcf747cc7.jpg",
+          "alt": "Garnet Holiday — XL: кухня-гостиная",
+          "caption": "XL: кухня-гостиная",
+          "categoryId": "S-N05-1",
+          "scope": "category",
+          "sourceUrl": "https://garnetholiday.ru/xl/",
+          "credit": "Garnet Holiday · сохранённые фотографии"
+        },
+        {
+          "id": "photo-81f03b44e4621052571a7597",
+          "src": "/photos/6193a0e8fd0f950e1403f3a4.jpg",
+          "alt": "Garnet Holiday — XL: вторая спальня",
+          "caption": "XL: вторая спальня",
+          "categoryId": "S-N05-1",
+          "scope": "category",
+          "sourceUrl": "https://garnetholiday.ru/xl/",
+          "credit": "Garnet Holiday · сохранённые фотографии"
+        },
+        {
+          "id": "photo-9bf964f719f5347a5fab027b",
+          "src": "/photos/5cc8b63e21533a9c780a114d.jpg",
+          "alt": "Garnet Holiday — XL: купель · доплата зависит от тарифа",
+          "caption": "XL: купель · доплата зависит от тарифа",
+          "categoryId": "S-N05-1",
+          "scope": "category",
+          "sourceUrl": "https://garnetholiday.ru/xl/",
+          "credit": "Garnet Holiday · сохранённые фотографии"
+        },
+        {
+          "id": "photo-99cdc2229cb895775f860717",
+          "src": "/photos/82756d872baab536eb134ae1.jpg",
+          "alt": "Garnet Holiday — XL: ванная и стиральная машина",
+          "caption": "XL: ванная и стиральная машина",
+          "categoryId": "S-N05-1",
+          "scope": "category",
+          "sourceUrl": "https://garnetholiday.ru/xl/",
+          "credit": "Garnet Holiday · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N05-1",
+          "name": "XL",
+          "areaM2": 122,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": null,
+          "officialUrl": "https://garnetholiday.ru/xl/",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-7438823a183d309950d12215",
+              "src": "/photos/8aebd1ec3ad629edcf747cc7.jpg",
+              "alt": "Garnet Holiday — XL: кухня-гостиная",
+              "caption": "XL: кухня-гостиная",
+              "categoryId": "S-N05-1",
+              "scope": "category",
+              "sourceUrl": "https://garnetholiday.ru/xl/",
+              "credit": "Garnet Holiday · сохранённые фотографии"
+            },
+            {
+              "id": "photo-81f03b44e4621052571a7597",
+              "src": "/photos/6193a0e8fd0f950e1403f3a4.jpg",
+              "alt": "Garnet Holiday — XL: вторая спальня",
+              "caption": "XL: вторая спальня",
+              "categoryId": "S-N05-1",
+              "scope": "category",
+              "sourceUrl": "https://garnetholiday.ru/xl/",
+              "credit": "Garnet Holiday · сохранённые фотографии"
+            },
+            {
+              "id": "photo-9bf964f719f5347a5fab027b",
+              "src": "/photos/5cc8b63e21533a9c780a114d.jpg",
+              "alt": "Garnet Holiday — XL: купель · доплата зависит от тарифа",
+              "caption": "XL: купель · доплата зависит от тарифа",
+              "categoryId": "S-N05-1",
+              "scope": "category",
+              "sourceUrl": "https://garnetholiday.ru/xl/",
+              "credit": "Garnet Holiday · сохранённые фотографии"
+            },
+            {
+              "id": "photo-99cdc2229cb895775f860717",
+              "src": "/photos/82756d872baab536eb134ae1.jpg",
+              "alt": "Garnet Holiday — XL: ванная и стиральная машина",
+              "caption": "XL: ванная и стиральная машина",
+              "categoryId": "S-N05-1",
+              "scope": "category",
+              "sourceUrl": "https://garnetholiday.ru/xl/",
+              "credit": "Garnet Holiday · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "les-art-resort",
+      "name": "LES Art Resort",
+      "city": "Дорохово",
+      "region": "Московская область",
+      "address": "Московская область, п. Дорохово, территория «База отдыха Прометей», 1",
+      "officialUrl": "https://lesresort.ru/",
+      "bookingUrl": "https://lesresort.ru/booking/",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-0bcdce53da8fa9d890bcb3b6",
+          "src": "/photos/876efcd1b0cec0b1b30bf236.jpg",
+          "alt": "Townhouse Familia: кухня-гостиная",
+          "caption": "Townhouse Familia: кухня-гостиная",
+          "categoryId": "R04",
+          "scope": "category",
+          "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+          "credit": "LES Art Resort · официальный источник"
+        },
+        {
+          "id": "photo-4c088389077577398c307a51",
+          "src": "/photos/904e8c3203389f02f780c731.jpg",
+          "alt": "Townhouse Familia: внешний вид здания с таунхаусами",
+          "caption": "Townhouse Familia: внешний вид здания с таунхаусами",
+          "categoryId": "R04",
+          "scope": "category",
+          "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+          "credit": "LES Art Resort · официальный источник"
+        },
+        {
+          "id": "photo-b95cc3577c48ec8b7b67b4d1",
+          "src": "/photos/6d0ba98991755bdefd9b3c4a.jpg",
+          "alt": "Townhouse Familia: спальня с двумя кроватями",
+          "caption": "Townhouse Familia: спальня с двумя кроватями",
+          "categoryId": "R04",
+          "scope": "category",
+          "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+          "credit": "LES Art Resort · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R04",
+          "name": "Townhouse Familia",
+          "areaM2": 107,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": 2,
+          "officialUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+          "format": "Курорт с домами",
+          "photos": [
+            {
+              "id": "photo-0bcdce53da8fa9d890bcb3b6",
+              "src": "/photos/876efcd1b0cec0b1b30bf236.jpg",
+              "alt": "Townhouse Familia: кухня-гостиная",
+              "caption": "Townhouse Familia: кухня-гостиная",
+              "categoryId": "R04",
+              "scope": "category",
+              "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+              "credit": "LES Art Resort · официальный источник"
+            },
+            {
+              "id": "photo-4c088389077577398c307a51",
+              "src": "/photos/904e8c3203389f02f780c731.jpg",
+              "alt": "Townhouse Familia: внешний вид здания с таунхаусами",
+              "caption": "Townhouse Familia: внешний вид здания с таунхаусами",
+              "categoryId": "R04",
+              "scope": "category",
+              "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+              "credit": "LES Art Resort · официальный источник"
+            },
+            {
+              "id": "photo-b95cc3577c48ec8b7b67b4d1",
+              "src": "/photos/6d0ba98991755bdefd9b3c4a.jpg",
+              "alt": "Townhouse Familia: спальня с двумя кроватями",
+              "caption": "Townhouse Familia: спальня с двумя кроватями",
+              "categoryId": "R04",
+              "scope": "category",
+              "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+              "credit": "LES Art Resort · официальный источник"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesnoy",
+      "name": "LESNOY",
+      "city": "Пешки, Солнечногорск",
+      "region": "Московская область",
+      "address": "Московская область, г. Солнечногорск, д. Пешки, территория «Комплекс Московия», строение 4",
+      "officialUrl": "https://lesnoyparkhotel.ru/",
+      "bookingUrl": "https://lesnoyparkhotel.ru/booking/",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-0b5df1e47edaf76a1e9e0a0c",
+          "src": "/photos/71addb4fa504a1f036f60861.jpg",
+          "alt": "LESNOY — Кухня-гостиная коттеджа ТЕРРА",
+          "caption": "Кухня-гостиная коттеджа ТЕРРА",
+          "categoryId": "R06",
+          "scope": "category",
+          "sourceUrl": "https://lesnoyparkhotel.ru/booking/",
+          "credit": "LESNOY · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R06",
+          "name": "ТЕРРА",
+          "areaM2": 71,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://lesnoyparkhotel.ru/booking/",
+          "format": "Курорт с домами",
+          "photos": [
+            {
+              "id": "photo-0b5df1e47edaf76a1e9e0a0c",
+              "src": "/photos/71addb4fa504a1f036f60861.jpg",
+              "alt": "LESNOY — Кухня-гостиная коттеджа ТЕРРА",
+              "caption": "Кухня-гостиная коттеджа ТЕРРА",
+              "categoryId": "R06",
+              "scope": "category",
+              "sourceUrl": "https://lesnoyparkhotel.ru/booking/",
+              "credit": "LESNOY · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "peresvet",
+      "name": "Les Villages Peresvet",
+      "city": "Пересвет, Сергиев Посад",
+      "region": "Московская область",
+      "address": "Московская область, г. Пересвет, ул. Пионерская, 9, 12",
+      "officialUrl": "https://peresvethotel.ru/hotels/les-villages-peresvet/",
+      "bookingUrl": "https://peresvethotel.ru/booking/",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-07fedb6ab4ebf760759ffc4f",
+          "src": "/photos/16f72aa42a3913c1359acf4a.jpg",
+          "alt": "Les Villages Peresvet — Коттедж на территории Les Villages Peresvet · общий референс",
+          "caption": "Коттедж на территории Les Villages Peresvet · общий референс",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://peresvethotel.ru/hotels/les-villages-peresvet/",
+          "credit": "Les Villages Peresvet · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R03",
+          "name": "Forest Le Petit BBQ",
+          "areaM2": null,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://peresvethotel.ru/hotels/les-villages-peresvet/",
+          "format": "Курорт с домами",
+          "photos": []
+        },
+        {
+          "id": "R02",
+          "name": "Le Petit",
+          "areaM2": 90,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": null,
+          "officialUrl": "https://peresvethotel.ru/hotels/les-villages-peresvet/",
+          "format": "Курорт с домами",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "pavlove-village",
+      "name": "Pavlove Village",
+      "city": "Яхрома / Дмитров",
+      "region": "Московская область",
+      "address": "Московская область, объединение Новое Минеево, 14А",
+      "officialUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+      "bookingUrl": "https://pavlovevillage.ru/booking",
+      "latitude": 56.253714,
+      "longitude": 37.556197,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:20.155Z",
+      "photos": [
+        {
+          "id": "photo-f4ad1345fef1e7830bde31e9",
+          "src": "/photos/8e974ffefd08f8bf703c51e4.jpg",
+          "alt": "Pavlove Village — Барнхаус: кухня-гостиная",
+          "caption": "Барнхаус: кухня-гостиная",
+          "categoryId": "S-N06-1",
+          "scope": "category",
+          "sourceUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+          "credit": "Pavlove Village · сохранённые фотографии"
+        },
+        {
+          "id": "photo-31807c6560cee5de1ca7fb6e",
+          "src": "/photos/caee5bab78062bef10c6e70c.jpg",
+          "alt": "Pavlove Village — Барнхаус: спальня",
+          "caption": "Барнхаус: спальня",
+          "categoryId": "S-N06-1",
+          "scope": "category",
+          "sourceUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+          "credit": "Pavlove Village · сохранённые фотографии"
+        },
+        {
+          "id": "photo-0a96f7a0fd537f36e5278e47",
+          "src": "/photos/3baf243c16b154671fc208e2.jpg",
+          "alt": "Pavlove Village — Сканди «Вода»: общая зона",
+          "caption": "Сканди «Вода»: общая зона",
+          "categoryId": "S-N06-2",
+          "scope": "category",
+          "sourceUrl": "https://pavlovevillage.ru/vse-domiki/scandys/scandy-voda",
+          "credit": "Pavlove Village · сохранённые фотографии"
+        },
+        {
+          "id": "photo-318f4c8d0599e8ad33abbd6e",
+          "src": "/photos/68c1537359ed8a90130f806b.jpg",
+          "alt": "Pavlove Village — Сканди: терраса и соседние дома",
+          "caption": "Сканди: терраса и соседние дома",
+          "categoryId": "S-N06-2",
+          "scope": "category",
+          "sourceUrl": "https://pavlovevillage.ru/vse-domiki/scandys/scandy-voda",
+          "credit": "Pavlove Village · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N06-1",
+          "name": "Барнхаус",
+          "areaM2": 88,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": null,
+          "officialUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-f4ad1345fef1e7830bde31e9",
+              "src": "/photos/8e974ffefd08f8bf703c51e4.jpg",
+              "alt": "Pavlove Village — Барнхаус: кухня-гостиная",
+              "caption": "Барнхаус: кухня-гостиная",
+              "categoryId": "S-N06-1",
+              "scope": "category",
+              "sourceUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+              "credit": "Pavlove Village · сохранённые фотографии"
+            },
+            {
+              "id": "photo-31807c6560cee5de1ca7fb6e",
+              "src": "/photos/caee5bab78062bef10c6e70c.jpg",
+              "alt": "Pavlove Village — Барнхаус: спальня",
+              "caption": "Барнхаус: спальня",
+              "categoryId": "S-N06-1",
+              "scope": "category",
+              "sourceUrl": "https://pavlovevillage.ru/vse-domiki/barnhouses/barnhouse",
+              "credit": "Pavlove Village · сохранённые фотографии"
+            }
+          ]
+        },
+        {
+          "id": "S-N06-2",
+          "name": "Сканди «Вода»",
+          "areaM2": 54,
+          "bedrooms": null,
+          "bathrooms": 1,
+          "floors": null,
+          "officialUrl": "https://pavlovevillage.ru/vse-domiki/scandys/scandy-voda",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-0a96f7a0fd537f36e5278e47",
+              "src": "/photos/3baf243c16b154671fc208e2.jpg",
+              "alt": "Pavlove Village — Сканди «Вода»: общая зона",
+              "caption": "Сканди «Вода»: общая зона",
+              "categoryId": "S-N06-2",
+              "scope": "category",
+              "sourceUrl": "https://pavlovevillage.ru/vse-domiki/scandys/scandy-voda",
+              "credit": "Pavlove Village · сохранённые фотографии"
+            },
+            {
+              "id": "photo-318f4c8d0599e8ad33abbd6e",
+              "src": "/photos/68c1537359ed8a90130f806b.jpg",
+              "alt": "Pavlove Village — Сканди: терраса и соседние дома",
+              "caption": "Сканди: терраса и соседние дома",
+              "categoryId": "S-N06-2",
+              "scope": "category",
+              "sourceUrl": "https://pavlovevillage.ru/vse-domiki/scandys/scandy-voda",
+              "credit": "Pavlove Village · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pine-river",
+      "name": "Pine River",
+      "city": "Обнинск",
+      "region": "Калужская область",
+      "address": "Калужская область, с. Восход",
+      "officialUrl": "https://pineriver.ru/",
+      "bookingUrl": "https://pineriver.ru/booking",
+      "latitude": 54.955305,
+      "longitude": 36.772499,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-dca659591ade996d2eacb5db",
+          "src": "/photos/18a281739f4e352c739448fc.jpg",
+          "alt": "Pine River — Семейный коттедж: гостиная с печью",
+          "caption": "Семейный коттедж: гостиная с печью",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-ec0e91a01de1fb456779690e",
+          "src": "/photos/30310d25e347048b9a94997b.jpg",
+          "alt": "Pine River — Семейный: первая спальня",
+          "caption": "Семейный: первая спальня",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-40b1192a6601c4d832df55ff",
+          "src": "/photos/37ce6e837db14e77d78ccb84.jpg",
+          "alt": "Pine River — Семейный: вторая спальня",
+          "caption": "Семейный: вторая спальня",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-e28ed06d7dc34a1b1aab85e0",
+          "src": "/photos/80d8b504d849b9ee8cfc3c88.jpg",
+          "alt": "Pine River — Семейный: кухня",
+          "caption": "Семейный: кухня",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-180061d6b9962cc3e4b8cab8",
+          "src": "/photos/282df425a39a02a61fa5ae19.jpg",
+          "alt": "Pine River — Семейный: ванная",
+          "caption": "Семейный: ванная",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-9e64bb0db9edf70691451f82",
+          "src": "/photos/a99fddbedd2d29ef8506dd23.jpg",
+          "alt": "Pine River — Семейный: дом среди деревьев",
+          "caption": "Семейный: дом среди деревьев",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-15313685f0a6b48752f9d841",
+          "src": "/photos/9c8d1b67be9db3f9904af085.jpg",
+          "alt": "Pine River — Семейный: вход и ступени на террасу",
+          "caption": "Семейный: вход и ступени на террасу",
+          "categoryId": "H02",
+          "scope": "category",
+          "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-dc61e185ae7e4296735ea32f",
+          "src": "/photos/4844f0019c883305d5d2ee8d.jpg",
+          "alt": "Pine River — Кедр: кухня-гостиная · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "caption": "Кедр: кухня-гостиная · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://pineriver.ru/rooms/kedr",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-5c616f9b6f5b581c52c3bad8",
+          "src": "/photos/f6c561bbdd298a8ebda0ac15.jpg",
+          "alt": "Pine River — Кедр: спальня · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "caption": "Кедр: спальня · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://pineriver.ru/rooms/kedr",
+          "credit": "Pine River · сохранённые фотографии"
+        },
+        {
+          "id": "photo-28e178b3eaa7990d0e4878a8",
+          "src": "/photos/6484a36c314ae56305571003.jpg",
+          "alt": "Pine River — Кедр: санузел · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "caption": "Кедр: санузел · сохранённое фото Кедра; Hills/Woods не уточнено",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://pineriver.ru/rooms/kedr",
+          "credit": "Pine River · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H16",
+          "name": "Кедр. Вудс",
+          "areaM2": 65,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://pineriver.ru/rooms/kedr",
+          "format": "Дом",
+          "photos": []
+        },
+        {
+          "id": "H03",
+          "name": "Кедр. Хиллс",
+          "areaM2": 65,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://pineriver.ru/rooms/kedr",
+          "format": "Дом",
+          "photos": []
+        },
+        {
+          "id": "H08",
+          "name": "Секвойя",
+          "areaM2": null,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://pineriver.ru/rooms/sequoia",
+          "format": "Дом",
+          "photos": []
+        },
+        {
+          "id": "H02",
+          "name": "Семейный коттедж (2 спальни)",
+          "areaM2": null,
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "floors": 1,
+          "officialUrl": "https://pineriver.ru/rooms/cottege_2sp",
+          "format": "Дом",
+          "photos": [
+            {
+              "id": "photo-dca659591ade996d2eacb5db",
+              "src": "/photos/18a281739f4e352c739448fc.jpg",
+              "alt": "Pine River — Семейный коттедж: гостиная с печью",
+              "caption": "Семейный коттедж: гостиная с печью",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-ec0e91a01de1fb456779690e",
+              "src": "/photos/30310d25e347048b9a94997b.jpg",
+              "alt": "Pine River — Семейный: первая спальня",
+              "caption": "Семейный: первая спальня",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-40b1192a6601c4d832df55ff",
+              "src": "/photos/37ce6e837db14e77d78ccb84.jpg",
+              "alt": "Pine River — Семейный: вторая спальня",
+              "caption": "Семейный: вторая спальня",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-e28ed06d7dc34a1b1aab85e0",
+              "src": "/photos/80d8b504d849b9ee8cfc3c88.jpg",
+              "alt": "Pine River — Семейный: кухня",
+              "caption": "Семейный: кухня",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-180061d6b9962cc3e4b8cab8",
+              "src": "/photos/282df425a39a02a61fa5ae19.jpg",
+              "alt": "Pine River — Семейный: ванная",
+              "caption": "Семейный: ванная",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-9e64bb0db9edf70691451f82",
+              "src": "/photos/a99fddbedd2d29ef8506dd23.jpg",
+              "alt": "Pine River — Семейный: дом среди деревьев",
+              "caption": "Семейный: дом среди деревьев",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            },
+            {
+              "id": "photo-15313685f0a6b48752f9d841",
+              "src": "/photos/9c8d1b67be9db3f9904af085.jpg",
+              "alt": "Pine River — Семейный: вход и ступени на террасу",
+              "caption": "Семейный: вход и ступени на террасу",
+              "categoryId": "H02",
+              "scope": "category",
+              "sourceUrl": "https://pineriver.ru/rooms/cottege_2sp",
+              "credit": "Pine River · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-les",
+      "name": "The Les",
+      "city": "Яхрома / Дмитров",
+      "region": "Московская область",
+      "address": "Московская область, Дмитровский округ, деревня Беклемишево, участок 44",
+      "officialUrl": "https://the-les.ru/",
+      "bookingUrl": "https://the-les.ru/?tl-booking-open=true",
+      "latitude": 56.211222,
+      "longitude": 37.680977,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:20.155Z",
+      "photos": [
+        {
+          "id": "photo-aff8c90be4bdf67d06a1dbaa",
+          "src": "/photos/1ca2045949a2e91ee582527b.jpg",
+          "alt": "The Les — Стандарт: кухня-гостиная",
+          "caption": "Стандарт: кухня-гостиная",
+          "categoryId": "S-N07-1",
+          "scope": "category",
+          "sourceUrl": "https://the-les.ru/",
+          "credit": "The Les · сохранённые фотографии"
+        },
+        {
+          "id": "photo-cac6088195542c5f1e06928d",
+          "src": "/photos/2cb2ba74a1ec28325436db19.jpg",
+          "alt": "The Les — Стандарт: спальная зона",
+          "caption": "Стандарт: спальная зона",
+          "categoryId": "S-N07-1",
+          "scope": "category",
+          "sourceUrl": "https://the-les.ru/",
+          "credit": "The Les · сохранённые фотографии"
+        },
+        {
+          "id": "photo-e3dc235e0e4f89f1bb6e1afb",
+          "src": "/photos/326628601774b2e27814232a.jpg",
+          "alt": "The Les — Стандартные домики и озеленение",
+          "caption": "Стандартные домики и озеленение",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://the-les.ru/",
+          "credit": "The Les · сохранённые фотографии"
+        },
+        {
+          "id": "photo-b59b450e4f86b30980240c6d",
+          "src": "/photos/0c9e6ff3ce45603f7ba111c5.jpg",
+          "alt": "The Les — Общий пруд и территория · лето",
+          "caption": "Общий пруд и территория · лето",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://the-les.ru/",
+          "credit": "The Les · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N07-1",
+          "name": "Стандарт",
+          "areaM2": 40,
+          "bedrooms": 0,
+          "bathrooms": 1,
+          "floors": null,
+          "officialUrl": "https://the-les.ru/",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-aff8c90be4bdf67d06a1dbaa",
+              "src": "/photos/1ca2045949a2e91ee582527b.jpg",
+              "alt": "The Les — Стандарт: кухня-гостиная",
+              "caption": "Стандарт: кухня-гостиная",
+              "categoryId": "S-N07-1",
+              "scope": "category",
+              "sourceUrl": "https://the-les.ru/",
+              "credit": "The Les · сохранённые фотографии"
+            },
+            {
+              "id": "photo-cac6088195542c5f1e06928d",
+              "src": "/photos/2cb2ba74a1ec28325436db19.jpg",
+              "alt": "The Les — Стандарт: спальная зона",
+              "caption": "Стандарт: спальная зона",
+              "categoryId": "S-N07-1",
+              "scope": "category",
+              "sourceUrl": "https://the-les.ru/",
+              "credit": "The Les · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wish-home",
+      "name": "Wish Home",
+      "city": "Яхрома / Дмитров",
+      "region": "Московская область",
+      "address": "Московская область, Яхрома; у бренда несколько локаций",
+      "officialUrl": "https://wh-collection.ru/lodge-m",
+      "bookingUrl": "https://wh-collection.ru/booking",
+      "latitude": 56.253838,
+      "longitude": 37.349515,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-f7f0220f97c2e35c86e4396a",
+          "src": "/photos/4d3f501a70af58ed7e522f76.jpg",
+          "alt": "Wish Home — Лодж M: кухня-гостиная",
+          "caption": "Лодж M: кухня-гостиная",
+          "categoryId": "S-N02-1",
+          "scope": "category",
+          "sourceUrl": "https://wh-collection.ru/lodge-m",
+          "credit": "Wish Home · сохранённые фотографии"
+        },
+        {
+          "id": "photo-f8471d10c30bb95c40fc6808",
+          "src": "/photos/356f8589905c3d5db4d36224.jpg",
+          "alt": "Wish Home — Лодж M: спальня",
+          "caption": "Лодж M: спальня",
+          "categoryId": "S-N02-1",
+          "scope": "category",
+          "sourceUrl": "https://wh-collection.ru/lodge-m",
+          "credit": "Wish Home · сохранённые фотографии"
+        },
+        {
+          "id": "photo-c48689c285a6bce18efc6b70",
+          "src": "/photos/4a998ed6a3143acd69bbe418.jpg",
+          "alt": "Wish Home — Лодж C: зона отдыха",
+          "caption": "Лодж C: зона отдыха",
+          "categoryId": "S-N02-2",
+          "scope": "category",
+          "sourceUrl": "https://wh-collection.ru/booking",
+          "credit": "Wish Home · сохранённые фотографии"
+        },
+        {
+          "id": "photo-c64a853bc1e823b8aad41a3d",
+          "src": "/photos/7f6259df1985f891f5fb784d.jpg",
+          "alt": "Wish Home — Лодж C: дом в зелени · лето",
+          "caption": "Лодж C: дом в зелени · лето",
+          "categoryId": "S-N02-2",
+          "scope": "category",
+          "sourceUrl": "https://wh-collection.ru/booking",
+          "credit": "Wish Home · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N02-2",
+          "name": "Лодж C",
+          "areaM2": 60,
+          "bedrooms": 1,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://wh-collection.ru/booking",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-c48689c285a6bce18efc6b70",
+              "src": "/photos/4a998ed6a3143acd69bbe418.jpg",
+              "alt": "Wish Home — Лодж C: зона отдыха",
+              "caption": "Лодж C: зона отдыха",
+              "categoryId": "S-N02-2",
+              "scope": "category",
+              "sourceUrl": "https://wh-collection.ru/booking",
+              "credit": "Wish Home · сохранённые фотографии"
+            },
+            {
+              "id": "photo-c64a853bc1e823b8aad41a3d",
+              "src": "/photos/7f6259df1985f891f5fb784d.jpg",
+              "alt": "Wish Home — Лодж C: дом в зелени · лето",
+              "caption": "Лодж C: дом в зелени · лето",
+              "categoryId": "S-N02-2",
+              "scope": "category",
+              "sourceUrl": "https://wh-collection.ru/booking",
+              "credit": "Wish Home · сохранённые фотографии"
+            }
+          ]
+        },
+        {
+          "id": "S-N02-1",
+          "name": "Лодж M",
+          "areaM2": 80,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://wh-collection.ru/lodge-m",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-f7f0220f97c2e35c86e4396a",
+              "src": "/photos/4d3f501a70af58ed7e522f76.jpg",
+              "alt": "Wish Home — Лодж M: кухня-гостиная",
+              "caption": "Лодж M: кухня-гостиная",
+              "categoryId": "S-N02-1",
+              "scope": "category",
+              "sourceUrl": "https://wh-collection.ru/lodge-m",
+              "credit": "Wish Home · сохранённые фотографии"
+            },
+            {
+              "id": "photo-f8471d10c30bb95c40fc6808",
+              "src": "/photos/356f8589905c3d5db4d36224.jpg",
+              "alt": "Wish Home — Лодж M: спальня",
+              "caption": "Лодж M: спальня",
+              "categoryId": "S-N02-1",
+              "scope": "category",
+              "sourceUrl": "https://wh-collection.ru/lodge-m",
+              "credit": "Wish Home · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a-ferma",
+      "name": "А-Ферма",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область",
+      "officialUrl": "https://aferma.info/",
+      "bookingUrl": "https://aferma.info/#houses",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-b499e5a25cbbf45bcc553336",
+          "src": "/photos/edd185bc5b9810c6ec4173f9.jpg",
+          "alt": "Большой треугольник: внешний вид дома",
+          "caption": "Большой треугольник: внешний вид дома",
+          "categoryId": "H15",
+          "scope": "category",
+          "sourceUrl": "https://aferma.info/",
+          "credit": "А-Ферма · официальный источник"
+        },
+        {
+          "id": "photo-55fcdd771803113ec2aa26a4",
+          "src": "/photos/055dac8d23becbd7344374cb.jpg",
+          "alt": "Большой треугольник: гостиная и лестница",
+          "caption": "Большой треугольник: гостиная и лестница",
+          "categoryId": "H15",
+          "scope": "category",
+          "sourceUrl": "https://aferma.info/",
+          "credit": "А-Ферма · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H15",
+          "name": "Большой треугольник",
+          "areaM2": 90,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": 2,
+          "officialUrl": "https://aferma.info/",
+          "format": "Дом / ферма",
+          "photos": [
+            {
+              "id": "photo-b499e5a25cbbf45bcc553336",
+              "src": "/photos/edd185bc5b9810c6ec4173f9.jpg",
+              "alt": "Большой треугольник: внешний вид дома",
+              "caption": "Большой треугольник: внешний вид дома",
+              "categoryId": "H15",
+              "scope": "category",
+              "sourceUrl": "https://aferma.info/",
+              "credit": "А-Ферма · официальный источник"
+            },
+            {
+              "id": "photo-55fcdd771803113ec2aa26a4",
+              "src": "/photos/055dac8d23becbd7344374cb.jpg",
+              "alt": "Большой треугольник: гостиная и лестница",
+              "caption": "Большой треугольник: гостиная и лестница",
+              "categoryId": "H15",
+              "scope": "category",
+              "sourceUrl": "https://aferma.info/",
+              "credit": "А-Ферма · официальный источник"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bolotov-dacha",
+      "name": "Болотов.Дача",
+      "city": "Заокский / Серпухов",
+      "region": "Тульская область",
+      "address": "Тульская область, Заокский район, д. Дворяниново, 129",
+      "officialUrl": "https://bolotov.life/",
+      "bookingUrl": "https://bolotov.life/booking",
+      "latitude": 54.6935,
+      "longitude": 37.5577,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:21.211Z",
+      "photos": [
+        {
+          "id": "photo-7b7e113512cccf0096958366",
+          "src": "/photos/c9ff4961d30ba2f763f38a63.jpg",
+          "alt": "Болотов.Дача — Облепиха: гостиная-кухня",
+          "caption": "Облепиха: гостиная-кухня",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-599d5101edd8fcaf82eabb9c",
+          "src": "/photos/198a874cafbc8aeaafc797ff.jpg",
+          "alt": "Болотов.Дача — Облепиха: спальня внизу",
+          "caption": "Облепиха: спальня внизу",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-ff6beeeef58f7233040aa021",
+          "src": "/photos/f52a45855fe0b846c92e667b.jpg",
+          "alt": "Болотов.Дача — Облепиха: спальня наверху",
+          "caption": "Облепиха: спальня наверху",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-56149b820ae35df36bdeeeef",
+          "src": "/photos/caf8cf85c0b5f4b2ed6fd618.jpg",
+          "alt": "Болотов.Дача — Облепиха: ванная наверху",
+          "caption": "Облепиха: ванная наверху",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-90f33ede528fa3e439a770bd",
+          "src": "/photos/cc7a6da71b5a0d6441fe072c.jpg",
+          "alt": "Болотов.Дача — Облепиха: сауна",
+          "caption": "Облепиха: сауна",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-3358d63a2719b511ef82b027",
+          "src": "/photos/f9dac4191998377b41031b82.jpg",
+          "alt": "Болотов.Дача — Облепиха: лестница",
+          "caption": "Облепиха: лестница",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-e0a15998a071849aae64a868",
+          "src": "/photos/fe4ed2877ed353c557f746e5.jpg",
+          "alt": "Болотов.Дача — Облепиха: фасад",
+          "caption": "Облепиха: фасад",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        },
+        {
+          "id": "photo-ad70cd6cbeb54e3149567431",
+          "src": "/photos/8ffaa6799df7eae5da1a6c7f.jpg",
+          "alt": "Болотов.Дача — Облепиха: зона отдыха рядом с домом",
+          "caption": "Облепиха: зона отдыха рядом с домом",
+          "categoryId": "H04",
+          "scope": "category",
+          "sourceUrl": "https://bolotov.life/rooms",
+          "credit": "Болотов.Дача · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H04",
+          "name": "Облепиха",
+          "areaM2": 103,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": 2,
+          "officialUrl": "https://bolotov.life/rooms",
+          "format": "Дом",
+          "photos": [
+            {
+              "id": "photo-7b7e113512cccf0096958366",
+              "src": "/photos/c9ff4961d30ba2f763f38a63.jpg",
+              "alt": "Болотов.Дача — Облепиха: гостиная-кухня",
+              "caption": "Облепиха: гостиная-кухня",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-599d5101edd8fcaf82eabb9c",
+              "src": "/photos/198a874cafbc8aeaafc797ff.jpg",
+              "alt": "Болотов.Дача — Облепиха: спальня внизу",
+              "caption": "Облепиха: спальня внизу",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-ff6beeeef58f7233040aa021",
+              "src": "/photos/f52a45855fe0b846c92e667b.jpg",
+              "alt": "Болотов.Дача — Облепиха: спальня наверху",
+              "caption": "Облепиха: спальня наверху",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-56149b820ae35df36bdeeeef",
+              "src": "/photos/caf8cf85c0b5f4b2ed6fd618.jpg",
+              "alt": "Болотов.Дача — Облепиха: ванная наверху",
+              "caption": "Облепиха: ванная наверху",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-90f33ede528fa3e439a770bd",
+              "src": "/photos/cc7a6da71b5a0d6441fe072c.jpg",
+              "alt": "Болотов.Дача — Облепиха: сауна",
+              "caption": "Облепиха: сауна",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-3358d63a2719b511ef82b027",
+              "src": "/photos/f9dac4191998377b41031b82.jpg",
+              "alt": "Болотов.Дача — Облепиха: лестница",
+              "caption": "Облепиха: лестница",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-e0a15998a071849aae64a868",
+              "src": "/photos/fe4ed2877ed353c557f746e5.jpg",
+              "alt": "Болотов.Дача — Облепиха: фасад",
+              "caption": "Облепиха: фасад",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            },
+            {
+              "id": "photo-ad70cd6cbeb54e3149567431",
+              "src": "/photos/8ffaa6799df7eae5da1a6c7f.jpg",
+              "alt": "Болотов.Дача — Облепиха: зона отдыха рядом с домом",
+              "caption": "Облепиха: зона отдыха рядом с домом",
+              "categoryId": "H04",
+              "scope": "category",
+              "sourceUrl": "https://bolotov.life/rooms",
+              "credit": "Болотов.Дача · сохранённые фотографии"
+            }
+          ]
+        },
+        {
+          "id": "H05",
+          "name": "Шиповник",
+          "areaM2": 84,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": 2,
+          "officialUrl": "https://bolotov.life/rooms",
+          "format": "Дом",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "gorki-leninskie",
+      "name": "Горки Ленинские",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, Горки Ленинские, ул. Берёзовая Аллея, 1",
+      "officialUrl": "https://hotelgorki.ru/",
+      "bookingUrl": null,
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "unreachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-0952b2ef3f62a260b49e9dd7",
+          "src": "/photos/d8b3ed686cad37029a5bdea2.jpg",
+          "alt": "Горки Ленинские: внешний вид отеля с официальной страницы музея-заповедника",
+          "caption": "Горки Ленинские: внешний вид отеля с официальной страницы музея-заповедника",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://mgorki.ru/otel/",
+          "credit": "Музей-заповедник «Горки Ленинские» · официальный источник"
+        },
+        {
+          "id": "photo-7baf736ac5b065d2202bd0dd",
+          "src": "/photos/ec57f1196da6e26a6db8e118.jpg",
+          "alt": "Парк на территории музея-заповедника «Горки Ленинские»",
+          "caption": "Парк на территории музея-заповедника «Горки Ленинские»",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://mgorki.ru/otel/",
+          "credit": "Музей-заповедник «Горки Ленинские» · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R11",
+          "name": "Категория не выбрана",
+          "areaM2": null,
+          "bedrooms": null,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": null,
+          "format": "Отель",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "zelenaya-tropa",
+      "name": "Зелёная тропа",
+      "city": null,
+      "region": "Тульская область",
+      "address": "Тульская область, Заокский район, около деревни Волковичи",
+      "officialUrl": "https://www.zelenayatropa.ru/dachi",
+      "bookingUrl": "https://www.zelenayatropa.ru/booking",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-5af05f628fdee2ed40d3e872",
+          "src": "/photos/ab9dfd930f911239eb20a29e.jpg",
+          "alt": "Зелёная тропа: дом среди деревьев; категория не уточнена",
+          "caption": "Зелёная тропа: дом среди деревьев; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://www.zelenayatropa.ru/dachi",
+          "credit": "Зелёная тропа · официальный источник"
+        },
+        {
+          "id": "photo-ad2ecc49b6310b0c8b8b1dff",
+          "src": "/photos/3949e9287fe53ab74a7a9bcc.jpg",
+          "alt": "Зелёная тропа: интерьер дома; категория не уточнена",
+          "caption": "Зелёная тропа: интерьер дома; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://www.zelenayatropa.ru/dachi",
+          "credit": "Зелёная тропа · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H13",
+          "name": "Категория не выбрана",
+          "areaM2": null,
+          "bedrooms": null,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://www.zelenayatropa.ru/dachi",
+          "format": "Дом / глэмпинг",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "izumrudny-les",
+      "name": "Изумрудный лес",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, Клинское направление",
+      "officialUrl": "https://izumrudnyles.cosmosgroup.ru/",
+      "bookingUrl": "https://izumrudnyles.cosmosgroup.ru/booking?hotel=5881",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-d194662552d31c1c051a8127",
+          "src": "/photos/18e2bef93cb0609ce38cbff3.webp",
+          "alt": "Изумрудный Лес: здание у воды на территории комплекса",
+          "caption": "Изумрудный Лес: здание у воды на территории комплекса",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://izumrudnyles.cosmosgroup.ru/",
+          "credit": "Cosmos Collection Изумрудный Лес · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "R08",
+          "name": "Категория не выбрана",
+          "areaM2": null,
+          "bedrooms": null,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": null,
+          "format": "Курорт",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "malinki-retreat",
+      "name": "Малинки Ретрит",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, г. Электроугли, Богородский р-н, КП Малинки Парк, 56",
+      "officialUrl": "https://malinkidom.ru/",
+      "bookingUrl": "https://malinkidom.ru/#popup:embedcode",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-ef8d139e7fce03af8ada4964",
+          "src": "/photos/7dcbf831f647f87a7cab2a6b.jpg",
+          "alt": "Малинки Ретрит: дома и территория; категория не уточнена",
+          "caption": "Малинки Ретрит: дома и территория; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://malinkidom.ru/",
+          "credit": "Малинки Ретрит · официальный источник"
+        },
+        {
+          "id": "photo-00d8059b332edc49ff406eee",
+          "src": "/photos/8739a3450e0c2d8842b4392e.jpg",
+          "alt": "Малинки Ретрит: кухня-гостиная; категория не уточнена",
+          "caption": "Малинки Ретрит: кухня-гостиная; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://malinkidom.ru/",
+          "credit": "Малинки Ретрит · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H10",
+          "name": "Дом 110 м²",
+          "areaM2": 110,
+          "bedrooms": 3,
+          "bathrooms": null,
+          "floors": 2,
+          "officialUrl": "https://malinkidom.ru/",
+          "format": "Дом",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "provinciya",
+      "name": "Провинция",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, Подольский район, пос. Александровка, ул. Сосновая, 12",
+      "officialUrl": "https://provinciya.space/",
+      "bookingUrl": "https://provinciya.space/booking",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-dc6bca59fc5de34ec27c7278",
+          "src": "/photos/788c11cef65451b89d37f8be.jpg",
+          "alt": "Дом с двумя спальнями: внешний вид и участок",
+          "caption": "Дом с двумя спальнями: внешний вид и участок",
+          "categoryId": "H09",
+          "scope": "category",
+          "sourceUrl": "https://provinciya.space/dom-2-spalni",
+          "credit": "Загородный комплекс «Провинция» · официальный источник"
+        },
+        {
+          "id": "photo-41b27edafa873b60c22257f0",
+          "src": "/photos/d5f238a0c9608538d4b88452.jpg",
+          "alt": "Дом с двумя спальнями: гостиная",
+          "caption": "Дом с двумя спальнями: гостиная",
+          "categoryId": "H09",
+          "scope": "category",
+          "sourceUrl": "https://provinciya.space/dom-2-spalni",
+          "credit": "Загородный комплекс «Провинция» · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H09",
+          "name": "Дом с 2 спальнями",
+          "areaM2": 100,
+          "bedrooms": 2,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://provinciya.space/booking",
+          "format": "Дом",
+          "photos": [
+            {
+              "id": "photo-dc6bca59fc5de34ec27c7278",
+              "src": "/photos/788c11cef65451b89d37f8be.jpg",
+              "alt": "Дом с двумя спальнями: внешний вид и участок",
+              "caption": "Дом с двумя спальнями: внешний вид и участок",
+              "categoryId": "H09",
+              "scope": "category",
+              "sourceUrl": "https://provinciya.space/dom-2-spalni",
+              "credit": "Загородный комплекс «Провинция» · официальный источник"
+            },
+            {
+              "id": "photo-41b27edafa873b60c22257f0",
+              "src": "/photos/d5f238a0c9608538d4b88452.jpg",
+              "alt": "Дом с двумя спальнями: гостиная",
+              "caption": "Дом с двумя спальнями: гостиная",
+              "categoryId": "H09",
+              "scope": "category",
+              "sourceUrl": "https://provinciya.space/dom-2-spalni",
+              "credit": "Загородный комплекс «Провинция» · официальный источник"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rodiontsevo-unidentified",
+      "name": "Родионцево",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, деревня Родионцево",
+      "officialUrl": "https://rodioncevo.ru/",
+      "bookingUrl": "https://rodioncevo.ru/booking",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:34:04.984Z",
+      "photos": [
+        {
+          "id": "photo-fa361ae1fa52342b48584a1c",
+          "src": "/photos/011767dd77048c464487e700.jpg",
+          "alt": "Родионцево: дом с панорамными окнами; категория не уточнена",
+          "caption": "Родионцево: дом с панорамными окнами; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://rodioncevo.ru/",
+          "credit": "Родионцево · официальный источник"
+        },
+        {
+          "id": "photo-7f46db437af767e0df5dd871",
+          "src": "/photos/cdceea2d161bb6b3c1c55501.jpg",
+          "alt": "Родионцево: печь и вид из окна; категория не уточнена",
+          "caption": "Родионцево: печь и вид из окна; категория не уточнена",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://rodioncevo.ru/",
+          "credit": "Родионцево · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H14",
+          "name": "Категория не выбрана",
+          "areaM2": null,
+          "bedrooms": null,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": null,
+          "format": "Дом",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "ecorancho",
+      "name": "Экоранчо",
+      "city": null,
+      "region": "Московская область",
+      "address": "Московская область, Можайский район, д. Алексеевка",
+      "officialUrl": "https://ecorancho.ru/",
+      "bookingUrl": "https://ecorancho.ru/booking/",
+      "latitude": null,
+      "longitude": null,
+      "sourceStatus": "reachable",
+      "sourceCheckedAt": "2026-11-12T19:33:44.743Z",
+      "photos": [
+        {
+          "id": "photo-169147d96425fb49e46755df",
+          "src": "/photos/42556d8e9b31d912bcab4367.webp",
+          "alt": "Пример размещения Экоранчо: лодж с ванной и купелью",
+          "caption": "Пример размещения Экоранчо: лодж с ванной и купелью",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://ecorancho.ru/cottages/",
+          "credit": "Экоранчо · официальный источник"
+        },
+        {
+          "id": "photo-7ad06a479f70b7e0ea98fd7c",
+          "src": "/photos/c24d3ba268036a70a02d4943.webp",
+          "alt": "Пример размещения Экоранчо: лодж с ванной",
+          "caption": "Пример размещения Экоранчо: лодж с ванной",
+          "categoryId": null,
+          "scope": "property",
+          "sourceUrl": "https://ecorancho.ru/cottages/",
+          "credit": "Экоранчо · официальный источник"
+        }
+      ],
+      "categories": [
+        {
+          "id": "H11",
+          "name": "Коттеджи",
+          "areaM2": null,
+          "bedrooms": null,
+          "bathrooms": null,
+          "floors": null,
+          "officialUrl": "https://ecorancho.ru/booking/",
+          "format": "Дом",
+          "photos": []
+        }
+      ]
+    },
+    {
+      "id": "yasno-pole",
+      "name": "Ясно Поле",
+      "city": "Кашира / Ясногорск",
+      "region": "Тульская область",
+      "address": "Тульская область, Ясногорский район, деревня Вележево",
+      "officialUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+      "bookingUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/booking/",
+      "latitude": 54.758142,
+      "longitude": 37.872047,
+      "sourceStatus": "unreachable",
+      "sourceCheckedAt": "2026-11-12T19:34:20.155Z",
+      "photos": [
+        {
+          "id": "photo-40f6c1870dedad45cb7c9c2b",
+          "src": "/photos/2457a777c9d0776acf01b706.jpg",
+          "alt": "Ясно Поле — ВандерДом: гостиная и кухня",
+          "caption": "ВандерДом: гостиная и кухня",
+          "categoryId": "S-N03-1",
+          "scope": "category",
+          "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+          "credit": "Ясно Поле · сохранённые фотографии"
+        },
+        {
+          "id": "photo-037141c3d4a564798b343147",
+          "src": "/photos/4ffa0b2834ad3820ebafd690.jpg",
+          "alt": "Ясно Поле — ВандерДом: спальня с круглым окном",
+          "caption": "ВандерДом: спальня с круглым окном",
+          "categoryId": "S-N03-1",
+          "scope": "category",
+          "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+          "credit": "Ясно Поле · сохранённые фотографии"
+        },
+        {
+          "id": "photo-d1d492a7575f9e907be29e4e",
+          "src": "/photos/ad95374540f54de52b4ede53.jpg",
+          "alt": "Ясно Поле — ВандерДом: фасад и соседний дом",
+          "caption": "ВандерДом: фасад и соседний дом",
+          "categoryId": "S-N03-1",
+          "scope": "category",
+          "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+          "credit": "Ясно Поле · сохранённые фотографии"
+        },
+        {
+          "id": "photo-bfba69cade93026e8eb30afc",
+          "src": "/photos/40dea867fa965a2eb0570d4c.jpg",
+          "alt": "Ясно Поле — Общая территория парка",
+          "caption": "Общая территория парка",
+          "categoryId": null,
+          "scope": "territory",
+          "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+          "credit": "Ясно Поле · сохранённые фотографии"
+        }
+      ],
+      "categories": [
+        {
+          "id": "S-N03-1",
+          "name": "ВандерДом",
+          "areaM2": 90,
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "floors": null,
+          "officialUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+          "format": null,
+          "photos": [
+            {
+              "id": "photo-40f6c1870dedad45cb7c9c2b",
+              "src": "/photos/2457a777c9d0776acf01b706.jpg",
+              "alt": "Ясно Поле — ВандерДом: гостиная и кухня",
+              "caption": "ВандерДом: гостиная и кухня",
+              "categoryId": "S-N03-1",
+              "scope": "category",
+              "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+              "credit": "Ясно Поле · сохранённые фотографии"
+            },
+            {
+              "id": "photo-037141c3d4a564798b343147",
+              "src": "/photos/4ffa0b2834ad3820ebafd690.jpg",
+              "alt": "Ясно Поле — ВандерДом: спальня с круглым окном",
+              "caption": "ВандерДом: спальня с круглым окном",
+              "categoryId": "S-N03-1",
+              "scope": "category",
+              "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+              "credit": "Ясно Поле · сохранённые фотографии"
+            },
+            {
+              "id": "photo-d1d492a7575f9e907be29e4e",
+              "src": "/photos/ad95374540f54de52b4ede53.jpg",
+              "alt": "Ясно Поле — ВандерДом: фасад и соседний дом",
+              "caption": "ВандерДом: фасад и соседний дом",
+              "categoryId": "S-N03-1",
+              "scope": "category",
+              "sourceUrl": "https://www.xn----7sbfcjgacs1d4a0ph.xn--p1ai/prozhivanie/vanderdom/",
+              "credit": "Ясно Поле · сохранённые фотографии"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "totalPlaces": 27,
+    "publishedPlaces": 23,
+    "pendingPlaces": 4,
+    "liveSources": 0
+  },
+  "catalogUpdatedOn": "2026-11-10",
+  "sourceUpdatedAt": "2026-11-12T19:34:20.155Z"
+}
