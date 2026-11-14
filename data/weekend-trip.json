@@ -1,0 +1,402 @@
+{
+  "id": "family-2026-11-14",
+  "title": "Выходные с малышом",
+  "query": {
+    "checkIn": "2026-11-14",
+    "checkOut": "2026-11-15",
+    "adults": 2,
+    "childrenAges": [
+      0
+    ]
+  },
+  "researchedAt": "2026-11-14T10:24:16.424Z",
+  "locations": [
+    {
+      "id": "domingo-vienna-forest",
+      "placeId": "domingo-dacha",
+      "name": "Domingo · Венский лес",
+      "address": "Московская область, г. о. Серпухов, Верхнее Шахлово-1: Жёлудь — ул. Венский лес, 93; Янтарь — 143.",
+      "latitude": 55.027072,
+      "longitude": 37.235761,
+      "geoAccuracy": "complex",
+      "coordinateSourceUrl": "https://domingodacha.ru/yantar",
+      "offers": [
+        {
+          "id": "domingo-zhelud",
+          "categoryId": null,
+          "categoryName": "Желудь · 22 м²",
+          "status": "observed_available",
+          "totalPriceRub": 11835,
+          "rateName": "Невозвратный тариф без завтрака",
+          "checkedAt": "2026-11-14T10:23:00.261Z",
+          "expiresAt": "2026-11-14T11:23:00.261Z",
+          "bookingUrl": "https://domingodacha.ru/booking/?uid=a824ff30-0186-4dd5-b4e7-39b196d8e7d3&dfrom=14-11-2026&dto=15-11-2026&adults=2&children=%5B0%5D&onlyrooms=613658",
+          "sourceUrl": "https://domingodacha.ru/zhelud",
+          "conditions": [
+            "Полная предоплата.",
+            "Нет бесплатной отмены.",
+            "Без питания.",
+            "Показан невозвратный тариф. В форме также есть стандартный тариф с частичной предоплатой; его цену проверяйте отдельно."
+          ],
+          "familyFacts": [
+            "Кухонная зона с плитой, холодильником и СВЧ; одна общая комната.",
+            "Форма принимает двух взрослых и ребёнка до года, но в описании дом рассчитан на двоих.",
+            "Адрес: Венский лес, участок 93."
+          ],
+          "unknowns": [
+            "Подтвердить размещение младенца и наличие места для кроватки в небольшом доме.",
+            "Кроватка и стульчик по общим правилам выдаются по запросу; наличие на эти даты не подтверждено.",
+            "Фурако оплачивается отдельно.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-7a7ddde5ed01e7ff5e30c9b8",
+              "src": "/photos/7a7ddde5ed01e7ff5e30c9b8.jpg",
+              "alt": "Кухня дома Жёлудь",
+              "caption": "Жёлудь — кухня и камин",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/zhelud",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        },
+        {
+          "id": "domingo-yantar",
+          "categoryId": null,
+          "categoryName": "Янтарь · 35 м²",
+          "status": "observed_available",
+          "totalPriceRub": 13715,
+          "rateName": "Невозвратный тариф без завтрака",
+          "checkedAt": "2026-11-14T10:23:00.261Z",
+          "expiresAt": "2026-11-14T11:23:00.261Z",
+          "bookingUrl": "https://domingodacha.ru/booking/?uid=a824ff30-0186-4dd5-b4e7-39b196d8e7d3&dfrom=14-11-2026&dto=15-11-2026&adults=2&children=%5B0%5D&onlyrooms=426920",
+          "sourceUrl": "https://domingodacha.ru/yantar",
+          "conditions": [
+            "Полная предоплата.",
+            "Нет бесплатной отмены.",
+            "Без питания.",
+            "Показан невозвратный тариф. В форме также есть стандартный тариф с частичной предоплатой; его цену проверяйте отдельно."
+          ],
+          "familyFacts": [
+            "Отдельная спальня и диван в гостиной; кухня с посудомойкой, плитой и духовкой.",
+            "Участок огорожен. На странице дома люлька предлагается по запросу.",
+            "Адрес: Венский лес, участок 143."
+          ],
+          "unknowns": [
+            "Заранее согласовать наличие и условия предоставления люльки.",
+            "Этажность отдельно не подтверждена; фурако оплачивается дополнительно.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-e32f7ccccb457d9c73397429",
+              "src": "/photos/e32f7ccccb457d9c73397429.jpg",
+              "alt": "Дом Янтарь",
+              "caption": "Янтарь — участок и терраса",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/yantar",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ambient-park",
+      "placeId": "ambient-park",
+      "name": "Ambient Park",
+      "address": "Московская область, Истринский район, д. Ульево, ул. Солнечная, 60.",
+      "latitude": 55.786607067587,
+      "longitude": 36.492481484794,
+      "geoAccuracy": "complex",
+      "coordinateSourceUrl": "https://rs-ambient.ru/contacts/",
+      "offers": [
+        {
+          "id": "ambient-duet",
+          "categoryId": null,
+          "categoryName": "Дуэт вилла · 60 м²",
+          "status": "observed_available",
+          "totalPriceRub": 12730,
+          "rateName": "Черная пятница",
+          "checkedAt": "2026-11-14T10:18:28.879Z",
+          "expiresAt": "2026-11-14T11:18:28.879Z",
+          "bookingUrl": "https://rs-ambient.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=349142",
+          "sourceUrl": "https://rs-ambient.ru/rooms/bbq-woodpark-villa/",
+          "conditions": [
+            "Нужна предоплата; точная сумма предоплаты отдельно не раскрыта.",
+            "Стоимость услуги резервирования в размере первых суток не возвращается при отмене.",
+            "Питание в акционном тарифе отдельно не подтверждено."
+          ],
+          "familyFacts": [
+            "Кухня, отдельная спальня на первом этаже; наверху ещё спальня и кабинет.",
+            "Вилла двухэтажная: внутри есть лестница."
+          ],
+          "unknowns": [
+            "Наличие кроватки, расположение спальных мест и ограждение лестницы нужно подтвердить.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-83a038f10e6ef347aaef201a",
+              "src": "/photos/83a038f10e6ef347aaef201a.jpg",
+              "alt": "Дуэт вилла",
+              "caption": "Дуэт вилла — фото из официальной галереи",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://rs-ambient.ru/rooms/bbq-woodpark-villa/",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        },
+        {
+          "id": "ambient-comfort",
+          "categoryId": "H07",
+          "categoryName": "Комфорт вилла · 60 м²",
+          "status": "observed_available",
+          "totalPriceRub": 14070,
+          "rateName": "Черная пятница",
+          "checkedAt": "2026-11-14T10:19:47.234Z",
+          "expiresAt": "2026-11-14T11:19:47.234Z",
+          "bookingUrl": "https://rs-ambient.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=349390",
+          "sourceUrl": "https://rs-ambient.ru/rooms/bbq-parklane-residence/",
+          "conditions": [
+            "Нужна предоплата; точная сумма предоплаты отдельно не раскрыта.",
+            "Стоимость услуги резервирования в размере первых суток не возвращается при отмене.",
+            "Питание в акционном тарифе отдельно не подтверждено."
+          ],
+          "familyFacts": [
+            "Две спальни; кухня с плитой, холодильником и СВЧ.",
+            "В тарифе явно указан ребёнок до одного года."
+          ],
+          "unknowns": [
+            "Наличие кроватки и этажность выбранного коттеджа отдельно не подтверждены.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ]
+        },
+        {
+          "id": "ambient-family",
+          "categoryId": "H06",
+          "categoryName": "Семейная вилла · 76 м²",
+          "status": "observed_available",
+          "totalPriceRub": 16750,
+          "rateName": "Черная пятница",
+          "checkedAt": "2026-11-14T10:21:02.311Z",
+          "expiresAt": "2026-11-14T11:21:02.311Z",
+          "bookingUrl": "https://rs-ambient.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=349164",
+          "sourceUrl": "https://rs-ambient.ru/rooms/semeynaya-villa-s-saunoy-i-bbq-party-zonoy/",
+          "conditions": [
+            "Нужна предоплата; точная сумма предоплаты отдельно не раскрыта.",
+            "Стоимость услуги резервирования в размере первых суток не возвращается при отмене.",
+            "Питание не включено."
+          ],
+          "familyFacts": [
+            "Кухня, две спальни и кабинет.",
+            "Сауна на реконструкции — пользоваться нельзя; камин декоративный."
+          ],
+          "unknowns": [
+            "Кроватку, планировку и этажность выбранного дома нужно подтвердить.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ]
+        },
+        {
+          "id": "ambient-grand-no-offer",
+          "categoryId": "H01",
+          "categoryName": "Grand Villa",
+          "status": "no_offer",
+          "totalPriceRub": null,
+          "rateName": null,
+          "checkedAt": "2026-11-14T10:24:16.424Z",
+          "expiresAt": "2026-11-14T11:24:16.424Z",
+          "bookingUrl": "https://rs-ambient.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=350424",
+          "sourceUrl": "https://rs-ambient.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0",
+          "conditions": [
+            "На точный запрос форма показывала «Распродано»."
+          ],
+          "familyFacts": [],
+          "unknowns": [
+            "Наличие могло измениться после проверки."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domingo-korall",
+      "placeId": "domingo-dacha",
+      "name": "Domingo · Коралл",
+      "address": "Берендеево, участок 73. В форме — СНТ Росинка (д. Рудаково); в карточке дома — СНТ Труд.",
+      "latitude": 55.057193,
+      "longitude": 37.153152,
+      "geoAccuracy": "house",
+      "coordinateSourceUrl": "https://domingodacha.ru/booking/?uid=a824ff30-0186-4dd5-b4e7-39b196d8e7d3&dfrom=14-11-2026&dto=15-11-2026&adults=2&children=%5B0%5D",
+      "offers": [
+        {
+          "id": "domingo-korall",
+          "categoryId": null,
+          "categoryName": "Коралл · 40 м²",
+          "status": "observed_available",
+          "totalPriceRub": 13151,
+          "rateName": "Невозвратный тариф без завтрака",
+          "checkedAt": "2026-11-14T10:23:00.261Z",
+          "expiresAt": "2026-11-14T11:23:00.261Z",
+          "bookingUrl": "https://domingodacha.ru/booking/?uid=a824ff30-0186-4dd5-b4e7-39b196d8e7d3&dfrom=14-11-2026&dto=15-11-2026&adults=2&children=%5B0%5D&onlyrooms=602877",
+          "sourceUrl": "https://domingodacha.ru/korall",
+          "conditions": [
+            "Полная предоплата.",
+            "Нет бесплатной отмены.",
+            "Без питания.",
+            "Показан невозвратный тариф. В форме также есть стандартный тариф с частичной предоплатой; его цену проверяйте отдельно."
+          ],
+          "familyFacts": [
+            "Кухня с плитой, холодильником и СВЧ.",
+            "Двуспальная кровать на лофте с лестницей, внизу раскладной диван; люлька по запросу."
+          ],
+          "unknowns": [
+            "Подтвердить наличие люльки и удобное спальное место без подъёма на лофт.",
+            "В форме адрес — СНТ Росинка, д. Рудаково; на странице дома — СНТ Труд. Уточнить точный въезд.",
+            "Фурако оплачивается отдельно.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-bce023ea811e630899bbe600",
+              "src": "/photos/bce023ea811e630899bbe600.jpg",
+              "alt": "Дом Коралл",
+              "caption": "Коралл — внешний вид дома",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/korall",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "domingo-meridian",
+      "placeId": "domingo-dacha",
+      "name": "Domingo · Меридиан",
+      "address": "Московская область, г. о. Серпухов, КП Рай-Семёновское, 70А.",
+      "latitude": 55.01177,
+      "longitude": 37.360964,
+      "geoAccuracy": "house",
+      "coordinateSourceUrl": "https://domingodacha.ru/meridian",
+      "offers": [
+        {
+          "id": "domingo-meridian",
+          "categoryId": null,
+          "categoryName": "Меридиан · 105 м²",
+          "status": "no_offer",
+          "totalPriceRub": null,
+          "rateName": null,
+          "checkedAt": "2026-11-14T10:23:00.261Z",
+          "expiresAt": "2026-11-14T11:23:00.261Z",
+          "bookingUrl": "https://domingodacha.ru/booking/?uid=a824ff30-0186-4dd5-b4e7-39b196d8e7d3&dfrom=14-11-2026&dto=15-11-2026&adults=2&children=%5B0%5D&onlyrooms=611569",
+          "sourceUrl": "https://domingodacha.ru/meridian",
+          "conditions": [
+            "При повторной проверке 14 ноября форма не показала свободных мест на 14–15 ноября для двух взрослых и ребёнка до года."
+          ],
+          "familyFacts": [
+            "Две спальни и кабинет, два санузла; кухня с плитой, духовкой, СВЧ и посудомойкой.",
+            "Подогреваемый бассейн заявлен включённым; баня оплачивается отдельно."
+          ],
+          "unknowns": [
+            "Кроватку и её наличие на даты подтвердить у объекта.",
+            "Этажность и ограждение бассейна отдельно не проверены.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-259c8243734179998c19b5da",
+              "src": "/photos/259c8243734179998c19b5da.jpg",
+              "alt": "Дом Меридиан",
+              "caption": "Меридиан — внешний вид дома",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://domingodacha.ru/meridian",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "les-art-resort",
+      "placeId": "les-art-resort",
+      "name": "LES Art Resort",
+      "address": "Московская область, п. Дорохово, территория База отдыха Прометей, 1.",
+      "latitude": 55.520722911196,
+      "longitude": 36.355863660049,
+      "geoAccuracy": "complex",
+      "coordinateSourceUrl": "https://lesresort.ru/contacts/",
+      "offers": [
+        {
+          "id": "les-simple",
+          "categoryId": null,
+          "categoryName": "Симпл — номер в корпусе, 29 м²",
+          "status": "observed_available",
+          "totalPriceRub": 35904,
+          "rateName": "Стандартный тариф",
+          "checkedAt": "2026-11-14T10:23:25.850Z",
+          "expiresAt": "2026-11-14T11:23:25.850Z",
+          "bookingUrl": "https://lesresort.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=346584",
+          "sourceUrl": "https://lesresort.ru/rooms/simple-suite/",
+          "conditions": [
+            "Нужна предоплата; сумма отдельно не раскрыта.",
+            "В случае внесения предоплаты бесплатная отмена невозможна. При отмене взимается стоимость первых суток.",
+            "Полный пансион."
+          ],
+          "familyFacts": [
+            "Однокомнатный номер в корпусе, не отдельный дом; собственная кухня не подтверждена.",
+            "В форме размещения учтён ребёнок до года на дополнительном месте.",
+            "Заезд с 17:00, выезд до 14:00; ранний субботний заезд не предоставляется."
+          ],
+          "unknowns": [
+            "Подтвердить кроватку и её готовность на нужные даты; детское оборудование не приравниваем к включённому в стандартный тариф.",
+            "В корпусах нет лифтов — первый этаж можно запросить без гарантии.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ],
+          "photos": [
+            {
+              "id": "trip-photo-4787a4939bffed255efd1846",
+              "src": "/photos/4787a4939bffed255efd1846.jpg",
+              "alt": "Номер Симпл",
+              "caption": "Симпл — фото номера с официального сайта",
+              "categoryId": null,
+              "scope": "category",
+              "sourceUrl": "https://lesresort.ru/rooms/simple-suite/",
+              "credit": "Официальный сайт объекта"
+            }
+          ]
+        },
+        {
+          "id": "les-townhouse",
+          "categoryId": "R04",
+          "categoryName": "Таунхаус · 107 м²",
+          "status": "observed_available",
+          "totalPriceRub": 91520,
+          "rateName": "Стандартный тариф",
+          "checkedAt": "2026-11-14T10:24:04.892Z",
+          "expiresAt": "2026-11-14T11:24:04.892Z",
+          "bookingUrl": "https://lesresort.ru/booking/?date=2026-11-14&nights=1&adults=2&children=1&children-age=0&room-type=346739",
+          "sourceUrl": "https://lesresort.ru/rooms/townhouse-familia/",
+          "conditions": [
+            "Нужна предоплата; сумма отдельно не раскрыта.",
+            "В случае внесения предоплаты бесплатная отмена невозможна. При отмене взимается стоимость первых суток.",
+            "Полный пансион."
+          ],
+          "familyFacts": [
+            "Двухэтажный таунхаус с отдельным входом: внутри лестница.",
+            "В форме учтён ребёнок до года; заезд с 17:00, выезд до 14:00."
+          ],
+          "unknowns": [
+            "Кроватку, доступность детского оборудования, расположение спальни и возможность готовить еду нужно подтвердить.",
+            "Размер залога и все обязательные доплаты на финальном шаге не проверены."
+          ]
+        }
+      ]
+    }
+  ]
+}
